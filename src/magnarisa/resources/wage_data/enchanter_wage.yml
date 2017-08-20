@@ -1,0 +1,11 @@
+#Pay per item enchanted or pay per enchant gotten?
+#Options: ENCHANT or ITEM
+PAYOUT_TYPE: ENCHANT
+
+#only used if pay type is ITEM
+ITEMS:
+    DIAMOND_SWORD: 1.00
+
+#only used if pay type is ENCHANT
+ENCHANTS:
+    ARROW_DAMAGE: 1.00
